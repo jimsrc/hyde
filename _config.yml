@@ -1,5 +1,5 @@
 # Dependencies
-kramdown:         #redcarpet
+kramdown:         kramdown #redcarpet
 highlighter:      rouge #pygments
 gems: ['jekyll-github-metadata']
 
